@@ -1,0 +1,15 @@
+Day02 Timings
+
+Study Topics:
+- Linux Basics
+- Linux Commands
+- File Permissions
+- Vim Editor
+- Github
+
+Time Spent:
+Morning Study: 3 Hours , (7AM -10AM)
+Hands-on Practice: 2 Hours (2PM-4PM)
+GitHub : 1 Hours
+
+Total Study Time: 6 Hours
