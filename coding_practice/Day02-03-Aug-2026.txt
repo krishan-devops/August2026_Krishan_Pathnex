@@ -1,0 +1,18 @@
+Day02 - Linux Basics and Common Commands
+
+• Launch EC2 Instance
+
+pwd
+"rm
+Remove files and directories."
+rmdir
+top
+head
+
+tail
+find
+
+• df -h
+• du -h
+• du -hi
+yum, apt

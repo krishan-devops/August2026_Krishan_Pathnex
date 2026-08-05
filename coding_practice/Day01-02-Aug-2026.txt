@@ -1,0 +1,59 @@
+Day01 - Linux Basics and Common Commands
+Topics Learned:
+1. Linux Basic Commands
+2. File and Directory Operations
+3. vi Editor Basics
+4. File Permissions
+5. Script Execution
+6. File Removal Commands
+
+Commands Practiced:
+
+pwd
+- Shows current working directory.
+
+whoami
+- Shows current logged-in user.
+
+ls
+- Lists files and directories.
+
+ls -la
+- Lists hidden files with detailed permissions.
+
+ls -lah
+- Shows file sizes in human-readable format.
+
+ls -lahs
+- Shows detailed file listing with file size blocks.
+
+mkdir
+- Creates directories.
+
+Linux File Permissions:
+Read    = 4
+Write   = 2
+Execute = 1
+
+Example:
+chmod 755 filename
+
+Meaning:
+Owner  -> rwx
+Group  -> r-x
+Others -> r-x
+
+cat
+- Displays file content.
+
+rm Commands:
+rm file
+rm -r directory
+rm -f file
+rm -rf directory
+
+rmdir
+- Removes empty directory.
+
+vim
+- Linux text editor.
