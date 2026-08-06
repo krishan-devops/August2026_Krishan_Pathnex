@@ -1,0 +1,42 @@
+Day04 - Linux Basics and Common Commands
+
+• Launch EC2 Instance
+
+Commands
+ps
+top
+
+ps -ef | grep
+pipe (|) 
+kill
+pkill
+pgrep
+grep
+egrep
+egrep -v
+
+
+
+uname
+whoami
+df
+du
+free
+uptime
+lscpu
+lspci
+lsusb
+
+
+ifconfig
+ping
+netstat
+telnet 
+nc --zv 
+
+
+ss
+ssh
+scp
+wget
+curl
