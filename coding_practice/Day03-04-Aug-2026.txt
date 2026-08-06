@@ -1,0 +1,11 @@
+Day03 - Linux Basics and Common Commands
+
+• Launch EC2 Instance
+
+Commands
+useradd
+Restarting Services
+Sudo  Access
+chown
+chgrp
+umask
